@@ -4,7 +4,7 @@ A clean and responsive **Twitter/X UI Clone** built using **Tailwind CSS**.
 
 ## 🔗 Live Demo
 
-👉 https://twitter-ui-gvog-git-main-yuvrajyadav98s-projects.vercel.app/
+👉 https://twitter-ui-gvog.vercel.app/
 
 ## ✨ Features
 
@@ -43,8 +43,7 @@ This project was created for learning and practicing:
 ## 🚀 Live Preview
 
 Check out the project here:
-
-👉 https://twitter-ui-gvog-git-main-yuvrajyadav98s-projects.vercel.app/
+ https://twitter-ui-gvog.vercel.app/
 
 ## ⚠️ Disclaimer
 
